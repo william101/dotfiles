@@ -1,5 +1,1 @@
-# GIT
-
-alias goto='git checkout'
-alias grim='git rebase -i main'
-alias gp='git push origin HEAD'
+[ -f ~/.fzf.bash ] && source ~/.fzf.bash
